@@ -1,4 +1,4 @@
-package org.example;
+package org.example.metrics;
 
 public class Metrics {
     public long comparisons;
