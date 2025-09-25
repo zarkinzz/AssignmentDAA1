@@ -1,4 +1,4 @@
-package dev.yeunikey.metrics;
+package org.example.metrics;
 
 import java.io.File;
 import java.io.FileWriter;
