@@ -1,7 +1,6 @@
 package org.example.sort;
-
 import org.example.metrics.Metrics;
-
+import static org.example.util.PartitionUtil.lomutoRandom;
 import java.util.concurrent.ThreadLocalRandom;
 
 public final class QuickSort {
