@@ -1,5 +1,4 @@
 package org.example.util;
-import static org.example.util.ArraysUtil.swap;
 import java.util.concurrent.ThreadLocalRandom;
 
 /** Simple array helpers. */
